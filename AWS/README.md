@@ -1,3 +1,19 @@
+# DAY 1
+
+1. Intro to Cloud Computing 
+2. Cloud Service Models
+3. Deployment Models
+4. Benefits
+5. Risks & Challenges
+6. Use Cases
+7. Cloud Providers
+8. Cloud-Native Architecture
+9. Security 
+10. Future Trends
+11. Certifications & Careers
+12. Glossary
+
+
 Learning and Practicing AWS
 
 1	IAM (Identity & Access Management)
